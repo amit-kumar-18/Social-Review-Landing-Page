@@ -130,13 +130,13 @@ body {
 }
 
 .attribution {
-  position: relative;
-  bottom: 10px;
+  transform: translateY(50px);
   text-align: center;
 }
 
 .attribution a {
   text-decoration: none;
+  color: #502050;
 }
 
 @media (max-width: 1200px) {
